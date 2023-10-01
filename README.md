@@ -5,4 +5,4 @@ This is the repo for the CAD designs for the 2023 SpaceGrant competition. Each f
 # CAD Specifications
 
 ALL PARTS SHOULD BE IN MMGS.
-Try to use SolidWorks 2023.
+Try to use SolidWorks 2022.
